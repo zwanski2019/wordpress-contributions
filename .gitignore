@@ -1,0 +1,14 @@
+# Compiled output
+/dist/
+/build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node / npm
+node_modules/
+
+# Editor settings
+.vscode/
+.idea/
